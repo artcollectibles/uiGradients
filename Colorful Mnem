@@ -1,0 +1,9 @@
+[
+    {
+        …
+    },
+    {
+      "name": "Colorful Mnem",
+      "colors": ["#fcee39", "#f37b3d", "#ef5a6b", "#f26f4e", "#7c59a4", "#af4c92", "#dc4183", "#ed3d7d", "#ee4e72"]
+    }
+]
